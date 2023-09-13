@@ -1,6 +1,6 @@
 @import url("Styles/header.css");
 :root {
-    --cor-de-fundo: #d0e9c5;
+    --cor-de-fundo: #0f100f;
     --branco: #FFFFFF;
     --laranja: #ca8439;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
@@ -16,5 +16,5 @@ body {
 }
 
 h1 {
-    background-color: rgb(143, 209, 143);
+    background-color: rgb(143, 209, 124);
 }
